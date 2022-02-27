@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinobssuth
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Dart, Flutter, NodeJS, React, Solidarity
+- 🌱 I’m currently learning Dart, Flutter, NodeJS, React, Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kevin.obssuth@gmail.com 908-872-1526 
 
